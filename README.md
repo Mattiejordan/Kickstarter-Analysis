@@ -5,7 +5,7 @@ _ _ For Louise' *Fever*, she'll need a strategy other than More Cowbell. _ _
 ##### The expansive Kickstarter data covers several criteria including monetary goals and funding support details across multiple categories, countries, and timeframes. 
 
 
-![Parent_Category_Outcomes_Chart](Parent_Category_Outcomes_Chart.png)
+![Parent Category Outcomes Chart](Parent\ Category\ Outcomes\ Chart.png)
 
 
 
@@ -26,5 +26,5 @@ Louise has her goal set at $10,000 for her play, *Fever*. By looking through com
 ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 
-*Note to self- conlude summary of limitations
+*Louise may want to consider looking at more attributes linked to successes of play.
 
