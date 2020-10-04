@@ -15,8 +15,6 @@ To assist Louise I focused on criteria similar to her goals for her play, *Fever
 
 The greatest success of theater kickstarters can be seen in the summer months, specifically the month of May. Be it the warm summer days, end of spring semester, loosening of pocketbooks etc. there is something statistically relevant affiliated with a spike in theater support. Through the fall and winter this support is seen to decline. **I suggest Louise consider launching her campaign during the month of May to increase her chances of success.** Another note with this display of data is that the rate of failure is relatively consistent throughout the year. From this point we can lean towards correlation with launch date for success, but other factors are involved for causation of success. More data must be collected for factors that promote successful campaigns. 
 
-(https://github.com/Mattiejordan/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
-
 ![Outcomes Based on Date](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Outcomes Based on Goals
