@@ -5,7 +5,7 @@ _ _ For Louise' *Fever*, she'll need a strategy other than More Cowbell. _ _
 ##### The expansive Kickstarter data covers several criteria including monetary goals and funding support details across multiple categories, countries, and timeframes. 
 
 
-![Parent Category Outcomes Chart](Parent\ Category\ Outcomes\ Chart.png)
+![Parent Category Outcomes Chart](Parent_Category_Outcomes_Chart.png)
 
 
 
@@ -26,5 +26,5 @@ Louise has her goal set at $10,000 for her play, *Fever*. By looking through com
 ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 
-*Louise may want to consider looking at more attributes linked to successes of play.
+*Louise may want to consider looking at more attributes linked to successes of plays.* By looking at matrixes of regional interest another favorable correlation may be found. Would Louise consider moving her campaign to a region that theater is the most popular? Another matrix to conisder is the amount pledged. How would Louise like scheme the best method for encouraing the greatest amount of pledges? The Kickstarter data has numerous fields available for comparison and for finding favorable trends. 
 
